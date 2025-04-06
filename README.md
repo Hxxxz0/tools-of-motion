@@ -6,3 +6,8 @@ some tools of motion
 - Download SMPL-X with removed head bun (NPZ, 392 MB) - Use this for SMPL-X Python codebase and AMASS data.
 
 [手部动作重建 github](https://github.com/SeanChenxy/HandMesh)
+
+
+joint2bvgh 在momask运行
+
+另外两个jupyer 在 mdm
